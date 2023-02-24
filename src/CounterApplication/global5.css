@@ -1,0 +1,27 @@
+.btngrp{
+   display: flex;
+   justify-content: center;
+    align-items: center;
+ 
+    margin-top: 100px;
+   
+    background-color: antiquewhite;
+
+}
+.mainBlock{
+    margin-top: 100px;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    background-color: grey;
+    margin-left: 400px;
+    margin-right: 400px;
+   border: 10px solid black;
+    
+}
+
+.mainDiv{
+    
+
+    background-color: cadetblue;
+}

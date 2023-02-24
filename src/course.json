@@ -1,0 +1,25 @@
+[{
+    "name":"Wonder la",
+    "photo" : "https://upload.wikimedia.org/wikipedia/ml/8/8c/Wonderla.jpg",
+    "cost":"Ticket--1200",
+    "timings":"Timings--10am-6pm",
+    "location":"Location--mysore road"
+},
+{
+    "name":"Innovative film city",
+    "photo" :"https://i.ytimg.com/vi/V391m-JKgBA/maxresdefault.jpg",
+    "cost":"Ticket--1000",
+    "timings":"Timings--10am-6pm",
+    "location":"Location--mysore road"
+},
+{
+    "name":"GRS Fantasy park",
+    "photo" :"https://www.holidify.com/images/cmsuploads/compressed/Semnox-GRS_Image_1_20200424171536.jpeg",
+    "cost":"Ticket--1500",
+    "timings":"Timings--10am-6pm",
+    "location":"Location--mysore"
+
+}
+
+
+]

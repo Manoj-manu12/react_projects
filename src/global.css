@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar{
+    /* border: 10px solid blue; */
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    align-items: center;
+    width: 85%;
+    margin: auto;
+    background-color: darkcyan;
+
+}
+
+.menuBlock ul li a{
+text-decoration: none;
+color: white;
+font-weight: bolder;
+font-size: 30px;
+}
+
+.menuBlock ul {
+display: flex;
+justify-content: space-around;
+width:380px;
+list-style: none;
+margin: auto;
+}
+
+img{
+    height: 50px;
+    width: 150px;
+}

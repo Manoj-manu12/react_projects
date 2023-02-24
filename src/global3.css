@@ -1,0 +1,14 @@
+.mainBlock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.img2{
+    height: 300px;
+    width: 400px;
+}
+.img3{
+    height: 300px;
+    width: 400px;
+}
