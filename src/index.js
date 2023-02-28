@@ -9,11 +9,12 @@ import {createRoot} from "react-dom/client"
 // import App6 from './Std_details/App6';
 // import App7 from './Faker/App7'
 // import App8 from './Toast/App8'
-import App10 from './App10';
+// import App10 from './App10';
+import App11 from './CondtionalRendering/App11';
 
 
 
 
  
-createRoot(document.getElementById("root")).render(<App10/>)
+createRoot(document.getElementById("root")).render(<App11/>)
 
