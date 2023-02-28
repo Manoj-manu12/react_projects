@@ -24,7 +24,7 @@ const ConditionalRender = () => {
                     <li>Login</li>
                     <li>Signup</li>
                     <li>ForgetPassword</li>
-                    <li>cancel</li>
+                    
                 </ol>
             </nav>
             </>
