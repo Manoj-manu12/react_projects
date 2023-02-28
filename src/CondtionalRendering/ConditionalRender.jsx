@@ -22,7 +22,7 @@ const ConditionalRender = () => {
             <nav>
                 <ol>
                     <li>Login</li>
-                    <li>Signup</li>
+                    <li>SignUp</li>
                     <li>ForgetPassword</li>
                     
                 </ol>
