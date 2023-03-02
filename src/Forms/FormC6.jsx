@@ -9,9 +9,6 @@ const FormC6 = () => {
         e.preventDefault()
         console.log({username,password,gender})
  }
-
-
-
   return (
     <div>
          <form action="">
