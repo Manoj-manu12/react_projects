@@ -1,0 +1,21 @@
+.div-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.h1Block{
+    color: red;
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+
+}
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    background-image: url('https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg');
+
+}
