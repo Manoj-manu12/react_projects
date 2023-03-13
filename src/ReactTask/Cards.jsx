@@ -22,7 +22,7 @@ const Display = (props) => (
       />
     }
     actions={[ 
-    
+     
       <HeartOutlined key="dislike"/>,
       <HeartFilled key="like"   />,
       <EditOutlined key="edit" />,
@@ -36,10 +36,7 @@ const Display = (props) => (
       <h4>{`${x.username}`}</h4>
       <br />
       {`${x.email}`}
-      <br/>
-      {/* {`${x.phone}`}
-      <br />
-      {`${x.website}`} */}
+     
     </div>
   </Card>
       
